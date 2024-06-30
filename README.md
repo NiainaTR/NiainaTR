@@ -6,7 +6,5 @@ Hi, I'm NiainaTR! 👋<br><br>🔭 I’m currently an IT student<br>👯  I’m 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NiainaTR&theme=cobalt&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiainaTR&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
