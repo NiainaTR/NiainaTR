@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm NiainaTR! 👋<br><br>🔭 I’m currently an IT student<br>👯 I’m looking to collaborate on everything<br>🌱 I’m currently learning NETWORK | CYBERSECURITY | WEB TECHNOLOGIES | AI & DATA SCIENCE
 
 
