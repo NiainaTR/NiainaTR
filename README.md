@@ -3,7 +3,7 @@ Hi, I'm NiainaTR! 👋<br><br>🔭 I’m currently an IT student<br>👯 I’m l
 
 <div align="center">
   <br />
-    <img align="right" top="500" height="300" width="400" alt="GIF" src=["https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk3emFtNGc2c29pbjFidWx1ZTB1cm44MXlubjBtMzQ2c3F4c2l5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UzW8S83pWoKs/giphy.gif)">
+    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   <br />
 </div>
 
