@@ -3,10 +3,13 @@ Hi, I'm NiainaTR! 👋<br><br>🔭 I’m currently an IT student<br>👯 I’m l
 
 <div align="center">
   <br />
-    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM3eXU1OTd1bDNobWVwd3l0c3F6dXE3bjB0b3Bic3Nkcng0djc4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.gif">
   <br />
 </div>
-
+ <br />
+  <br />
+   <br />
+    <br />
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsantaniainaraherison@gmail.com) 
 
