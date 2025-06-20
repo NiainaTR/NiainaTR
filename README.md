@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **NiainaTR**!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=IT+Student+%F0%9F%8E%93;Network+%26+Cybersecurity+Enthusiast+%F0%9F%94%92;Web+Developer+%F0%9F%8C%90;AI+%26+Data+Science+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Computer+Science+Student+%F0%9F%8E%93;Network+%26+Cybersecurity+Enthusiast+%F0%9F%94%92;Web+Developer+%F0%9F%8C%90;AI+%26+Data+Science+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ```javascript
 const niainaTR = {
-    currentFocus: "IT Student 🎓",
+    currentFocus: "Computer Science Student 🎓",
     interests: [
         "Network Security 🔐",
         "Cybersecurity 🛡️", 
@@ -23,8 +23,7 @@ const niainaTR = {
     ],
     lookingFor: "Collaboration opportunities 🤝",
     currentlyLearning: "Advanced networking & security protocols",
-    askMeAbout: ["Web Dev", "Cybersecurity", "Data Science"],
-    funFact: "I debug code faster than I can explain why it works! 😄"
+    askMeAbout: ["Web Dev", "Network", "Cybersecurity"],
 };
 ```
 
