@@ -22,9 +22,10 @@ const niainaTR = {
         "AI & Data Science 🤖"
     ],
     networkingTools: ["EVE-NG", "GNS3", "Cisco IOS", "HUAWEI VRP"],
+    favoriteWebDevTool: "Turborepo 🚀",
     lookingFor: "Collaboration opportunities 🤝",
     currentlyLearning: "Advanced networking protocols & security implementation",
-    askMeAbout: ["Network Simulation", "Web Dev", "Cybersecurity", "Data Science"],
+    askMeAbout: ["Network Simulation", "Web Dev", "Cybersecurity", "Data Science", "Monorepo Architecture"],
 };
 ```
 
@@ -83,7 +84,8 @@ const niainaTR = {
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
-### **DevOps & Tools**
+### **DevOps & Development Tools**
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -153,6 +155,8 @@ mindmap
       Security Protocols
     Web Development
       Full Stack Development
+      Monorepo Architecture (Turborepo)
+      Next.js Applications
       Modern Frameworks
       Performance Optimization
     AI & Data Science
@@ -169,12 +173,26 @@ mindmap
 
 ---
 
+## 🚀 **Why Turborepo?**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Monorepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Monorepo Badge"/>
+</div>
+
+Turborepo is my go-to tool for managing monorepos because it provides:
+- **Blazing Fast Builds**: Intelligent caching and parallel execution
+- **Scalable Architecture**: Perfect for large-scale applications
+- **Developer Experience**: Simplified dependency management
+- **CI/CD Integration**: Seamless deployment workflows
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=Always+learning%2C+always+coding!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%8C%9F" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=Always+learning%2C+always+coding!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%8C%9F;Turborepo+%2B+Next.js+%3D+%E2%9D%A4%EF%B8%8F" alt="Footer Typing SVG" />
 </div>
 
 ---
