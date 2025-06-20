@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **NiainaTR**!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=IT+Student+%F0%9F%8E%93;Network+%26+Cybersecurity+Enthusiast+%F0%9F%94%92;Web+Developer+%F0%9F%8C%90;AI+%26+Data+Science+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Computer+Science+Student+%F0%9F%8E%93;Network+%26+Cybersecurity+Enthusiast+%F0%9F%94%92;Web+Developer+%F0%9F%8C%90;AI+%26+Data+Science+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,11 +12,9 @@
 
 ## 🚀 **About Me**
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWPpMYZ/giphy.gif">
-
 ```javascript
 const niainaTR = {
-    currentFocus: "IT Student 🎓",
+    currentFocus: "Computer Science Student 🎓",
     interests: [
         "Network Security 🔐",
         "Cybersecurity 🛡️", 
@@ -27,7 +25,6 @@ const niainaTR = {
     lookingFor: "Collaboration opportunities 🤝",
     currentlyLearning: "Advanced networking protocols & security implementation",
     askMeAbout: ["Network Simulation", "Web Dev", "Cybersecurity", "Data Science"],
-    funFact: "I can configure a router faster than I can explain the OSI model! 😄"
 };
 ```
 
@@ -177,7 +174,7 @@ mindmap
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+coding!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%8C%9F" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=Always+learning%2C+always+coding!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%8C%9F" alt="Footer Typing SVG" />
 </div>
 
 ---
