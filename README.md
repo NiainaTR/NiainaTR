@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **NiainaTR**!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Computer+Science+Student+%F0%9F%8E%93;Network+%26+Cybersecurity+Enthusiast+%F0%9F%94%92;Web+Developer+%F0%9F%8C%90;AI+%26+Data+Science+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=IT+Student+%F0%9F%8E%93;Network+%26+Cybersecurity+Enthusiast+%F0%9F%94%92;Web+Developer+%F0%9F%8C%90;AI+%26+Data+Science+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,18 +12,22 @@
 
 ## 🚀 **About Me**
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWPpMYZ/giphy.gif">
+
 ```javascript
 const niainaTR = {
-    currentFocus: "Computer Science Student 🎓",
+    currentFocus: "IT Student 🎓",
     interests: [
         "Network Security 🔐",
         "Cybersecurity 🛡️", 
         "Web Technologies 🌐",
         "AI & Data Science 🤖"
     ],
+    networkingTools: ["EVE-NG", "GNS3", "Cisco IOS", "HUAWEI VRP"],
     lookingFor: "Collaboration opportunities 🤝",
-    currentlyLearning: "Advanced networking & security protocols",
-    askMeAbout: ["Web Dev", "Network", "Cybersecurity"],
+    currentlyLearning: "Advanced networking protocols & security implementation",
+    askMeAbout: ["Network Simulation", "Web Dev", "Cybersecurity", "Data Science"],
+    funFact: "I can configure a router faster than I can explain the OSI model! 😄"
 };
 ```
 
@@ -74,12 +78,21 @@ const niainaTR = {
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+### **Network & Infrastructure**
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
+![HUAWEI](https://img.shields.io/badge/HUAWEI-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-1E90FF?style=for-the-badge&logo=network&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-008B8B?style=for-the-badge&logo=network&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### **AI & Data Science**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -136,6 +149,8 @@ const niainaTR = {
 mindmap
   root((NiainaTR))
     Network Security
+      Network Simulation (EVE-NG, GNS3)
+      Cisco & HUAWEI Configuration
       Penetration Testing
       Vulnerability Assessment
       Security Protocols
