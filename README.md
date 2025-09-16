@@ -3,11 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Computer+Science+Student+%F0%9F%8E%93;Network+%26+Cybersecurity+Enthusiast+%F0%9F%94%92;Web+Developer+%F0%9F%8C%90;AI+%26+Data+Science+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM3eXU1OTd1bDNobWVwd3l0c3F6dXE3bjB0b3Bic3Nkcng0djc4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.gif" width="400" alt="Coding Animation"/>
-</div>
-
 ---
 
 ## 🚀 **About Me**
